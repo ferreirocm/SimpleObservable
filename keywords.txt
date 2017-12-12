@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Observable	KEYWORD1
+Observer	KEYWORD1
+Subject		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+subscribe	KEYWORD2
+unsubscribe	KEYWORD2
+onNext		KEYWORD2
+next		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

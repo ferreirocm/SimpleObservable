@@ -1,0 +1,12 @@
+{
+    "name": "SimpleObservable",
+    "keywords": "pattern",
+    "description": "Exposes a simple Observables API",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/ferreirocm/SimpleObservable.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
